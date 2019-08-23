@@ -1861,7 +1861,7 @@ public class ShardQueryLogic extends BaseQueryLogic<Entry<Key,Value>> {
         requiredParams.add(datawave.webservice.query.QueryParameters.QUERY_NAME);
         requiredParams.add(datawave.webservice.query.QueryParameters.QUERY_AUTHORIZATIONS);
         requiredParams.add(datawave.webservice.query.QueryParameters.QUERY_LOGIC_NAME);
-        requiredParams.add(datawave.webservice.query.QueryParameters.QUERY_BEGIN);
+//        requiredParams.add(datawave.webservice.query.QueryParameters.QUERY_BEGIN);
         requiredParams.add(datawave.webservice.query.QueryParameters.QUERY_END);
         return requiredParams;
     }
