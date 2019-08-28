@@ -5,7 +5,7 @@
     <artifactId>datawave-parent</artifactId>
     <version>2.6.20-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>DataWave test11</name>
+    <name>DataWave test12</name>
     <description>DataWave is a Java-based ingest and query framework that leverages Apache Accumulo to provide fast, secure access to your data.</description>
     <url>https://code.nsa.gov/datawave</url>
     <licenses>
